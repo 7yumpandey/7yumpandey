@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @7yumpandey
-- 👀 I’m interested in ...coding, problem solving, DSA.
-- 🌱 I’m currently learning ...competitive programming
-- 💞️ I’m looking to collaborate on ...different project
-- 📫 How to reach me ... you can connect to me through my gmailand linked in
+<h1 align="center">Hi 👋, I'm Satyam Pandey</h1>
+<h3 align="center">A passionate Coder from India</h3>
 
-<!---
-7yumpandey/7yumpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=7yumpandey&label=Profile%20views&color=0e75b6&style=flat" alt="7yumpandey" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7yumpandey" alt="7yumpandey" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **App developing**
+
+- 🌱 I’m currently learning **competitive Programming**
+
+- 👯 I’m looking to collaborate on **problem solving**
+
+- 💬 Ask me about **DSA,OOPS,DBMS**
+
+- 📫 How to reach me **0201it211084@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/7yum_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7yum_pandey" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/s7_yumpandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s7_yumpandey" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/0201it211084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0201it211084" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/0201it2mgq1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="0201it2mgq1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7yumpandey&show_icons=true&locale=en&layout=compact" alt="7yumpandey" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7yumpandey&show_icons=true&locale=en" alt="7yumpandey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7yumpandey&" alt="7yumpandey" /></p>
