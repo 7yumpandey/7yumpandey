@@ -1,6 +1,7 @@
 # Hi, I'm Satyam Pandey 👋🏾 👩🏾‍💻
 
-<img src="https://www.canva.com/design/DAF6jLaEUvY/C3s1X-ty0-447lyMdcrhkQ/edit?utm_content=DAF6jLaEUvY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+![Black And Purple Modern Gaming Youtube Banner](https://github.com/7yumpandey/7yumpandey/assets/142084955/f26c3f64-e2a8-4d25-8030-58e5a2e4be12)
+
 I'm more than a coder – I'm an IT enthusiast hungry for learning and impact. My journey spans mastering C++ and Problem Solving, now delving into mobile app development with Flutter. GitHub showcases my commitment to clean code and user-friendly experiences like BMI calculators. Beyond code, I engage in competitive programming and leadership roles, embracing a holistic approach to personal and professional growth. Let's connect and create something remarkable together!
 
 
