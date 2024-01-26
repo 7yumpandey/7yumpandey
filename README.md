@@ -15,7 +15,8 @@ I'm more than a coder – I'm an IT enthusiast hungry for learning and impact. M
 </p>
 
  ## 🛠 Skills
-- **Programming Languages**: C, C++, Python (Beginner),Dart (Intermediate)Database and Language: MySQL, SQL (Intermediate), Firebase
+- **Programming Languages**: C, C++, Python (Beginner),Dart (Intermediate)
+- **Database and Language**: MySQL, SQL (Intermediate), Firebase
 -**Frameworks**: Flutter
 -**Version Control Tools and IDE**: Git, GitHub, Visual Studio Code, Android Studio
 -**Core Subjects**: Object Oriented Programming, Operating System, DBMS and ComputerNetworks,System Design
