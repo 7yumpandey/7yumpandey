@@ -1,11 +1,11 @@
-#### Hi, I'm Satyam Pandey 👋🏾 👩🏾‍💻
+# **Hi, I'm Satyam Pandey 👋🏾 👩🏾‍💻**
 
 ![Black And Purple Modern Gaming Youtube Banner](https://github.com/7yumpandey/7yumpandey/assets/142084955/f26c3f64-e2a8-4d25-8030-58e5a2e4be12)
 
 I'm more than a coder – I'm an IT enthusiast hungry for learning and impact. My journey spans mastering C++ and Problem Solving, now delving into mobile app development with Flutter. GitHub showcases my commitment to clean code and user-friendly experiences like BMI calculators. Beyond code, I engage in competitive programming and leadership roles, embracing a holistic approach to personal and professional growth. Let's connect and create something remarkable together!
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
 ## Profile Links
 <p align="left">
 <a href="https://instagram.com/7yum_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7yum_pandey" height="30" width="40" /></a>
@@ -15,12 +15,10 @@ I'm more than a coder – I'm an IT enthusiast hungry for learning and impact. M
 </p>
 
  ## 🛠 Skills
-- **Languages**: C++,Dart,C
-- **Front-End**: Flutter, Flutterflow, HTML, CSS
-- **Back-End**: API, Mysql,(Firebase & Appwrite as BaaS), node.js
-- **Architectural patterns**: MVVM & Clean Architecture
-- **Others** :  Wordpress,Figma, Canva
-- **Tools** :  VS Code, Android Studio,GIT
+- **Programming Languages**: C, C++, Python (Beginner),Dart (Intermediate)Database and Language: MySQL, SQL (Intermediate), Firebase
+-**Frameworks**: Flutter
+-**Version Control Tools and IDE**: Git, GitHub, Visual Studio Code, Android Studio
+-**Core Subjects**: Object Oriented Programming, Operating System, DBMS and ComputerNetworks,System Design
 
 ## 📄 Working Experience
 - **Intern Crowd June 2022**: *July 2023*
