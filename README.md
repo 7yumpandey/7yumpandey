@@ -21,21 +21,6 @@ I'm more than a coder – I'm an IT enthusiast hungry for learning and impact. M
 - **Version Control Tools and IDE**: Git, GitHub, Visual Studio Code, Android Studio
 - **Core Subjects**: Object Oriented Programming, Operating System, DBMS and ComputerNetworks, System Design
 
-## 📄 Working Experience
-- **Intern Crowd June 2022**: *July 2023*
-_Software Engineering Intern -Remote_
-• Led the team of 5 developers to establish a collaborative and high-performing work environment.
-Developed a C++ birthday tracker achieving 99% accuracy for seamless recognition and improved website
-performance by 55%.
-• Successfully resolved over 30+ issues in the C++ codebase, elevating code quality and stability.
-- **Live Wire Pvt. Ltd.**:  (July 2022 - September 2022)
- _Python Developer Intern -Remote_
-• Designed and implemented a user-friendly Python calculator program with 100% accuracy, leveraging 
-Python libraries to enhance performance. • Boosted Python skills by 40% in coding bootcamp, mastering advanced data structures and algorithm for 
-efficient, high-quality code
-## 🎓 Education
-- **B.Tech**: Information Technology (Jabalpur Engineering College)     -*8.25 CGPA*
-
 Comment
 
 
